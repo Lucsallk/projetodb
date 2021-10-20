@@ -43,7 +43,7 @@
               </tr>
             </tbody>
           </table>
-          <a href="tela2.html">Tabela de Detalhes</a>
+          <a href="tela2.blade.php">Tabela de Detalhes</a>
     </div>
 </body>
 </html>
